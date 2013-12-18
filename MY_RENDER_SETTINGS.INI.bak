@@ -1,0 +1,5 @@
+Antialias=On
+Antialias_Threshold=0.3
+Antialias_Depth=3
+Antialias_Recursion=3
+Antialias_Jitter=1.0
